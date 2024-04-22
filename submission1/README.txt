@@ -1,8 +1,3 @@
-Link to unlisted YouTube video:
-https://youtu.be/...
-Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/..
-
 Paper title:
 Adheetee: A Comprehensive Bangla Virtual Assistant
 
