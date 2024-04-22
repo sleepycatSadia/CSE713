@@ -9,4 +9,4 @@ Group Number:
 
 Individual Submitter:
 23366028 Sadia Tasnim
-I also correctly uploaded slide.PPT and report.PDF here.
+I also correctly uploaded report.PDF here.
